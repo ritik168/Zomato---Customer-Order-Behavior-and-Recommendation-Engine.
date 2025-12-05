@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-This project focuses on understanding and analyzing customer food ordering behavior on Zomato using a synthetic dataset of 20,000 records, designed to reflect real-world ordering patterns across major Indian cities. The goal is to uncover insights that help improve customer experience, optimize operations, and support data-driven decision-making within food delivery platforms.
+This project focuses on understanding and analyzing customer food ordering behavior on Zomato using a synthetic dataset of 20,000 records, real-world ordering patterns across major Indian cities. The goal is to uncover insights that help improve customer experience, optimize operations, and support data-driven decision-making within food delivery platforms.
 
 ## 🎯 Objective
 
@@ -30,7 +30,7 @@ Find revenue-driving restaurants & cuisines.
 
 Support recommendation engine with meaningful insights.
 
-#3 🔑 Key Insights
+## 🔑 Key Insights
 
 In The PPT
 
