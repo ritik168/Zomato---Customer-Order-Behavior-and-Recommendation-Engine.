@@ -1,11 +1,10 @@
 # 📌 Zomato:-Customer-Order-Behavior-and-Recommendation-Engine.
 
-# 🔍 Project Overview
+## 🔍 Project Overview
 
-This project analyzes customer ordering patterns on Zomato using a 20,000-rows of dataset.
-It includes EDA, visualizations, business insights, and a recommendation engine approach.
+This project focuses on understanding and analyzing customer food ordering behavior on Zomato using a synthetic dataset of 20,000 records, designed to reflect real-world ordering patterns across major Indian cities. The goal is to uncover insights that help improve customer experience, optimize operations, and support data-driven decision-making within food delivery platforms.
 
-# 🎯 Objective
+## 🎯 Objective
 
 Understand customer behavior & food ordering trends
 
@@ -17,7 +16,7 @@ Find insights that can improve restaurant performance
 
 Build logic for a recommendation system to improve user engagement
 
-# 🧩 Business Problems Solved.
+## 🧩 Business Problems Solved.
 
 Identify peak order timings & demand patterns.
 
@@ -31,11 +30,12 @@ Find revenue-driving restaurants & cuisines.
 
 Support recommendation engine with meaningful insights.
 
-# 🔑 Key Insights
+#3 🔑 Key Insights
 
 In The PPT
 
-# 🛠 Tools & Technologies Used
+
+## 🛠 Tools & Technologies Used
 
 Python
 
@@ -49,7 +49,7 @@ Jupyter Notebook
 
 PowerPoint (PPT report)
 
-# Project End.
+## Project End.
 
 
 
